@@ -1,0 +1,13 @@
+SalesID,Date,Product,Region,Sales,Profit,Year
+101,2022-01-05,Product A,North,500,80,2022
+102,2022-01-10,Product B,East,600,110,2022
+103,2022-02-12,Product C,West Coast,700,140,2022
+104,2022-02-20,Product D,South,800,160,2022
+105,2022-03-04,Product E,Central,550,95,2022
+106,2022-03-15,Product A,North,650,105,2022
+107,2022-04-02,Product B,East,720,135,2022
+108,2022-04-18,Product C,West Coast,900,190,2022
+109,2022-05-07,Product D,South,850,170,2022
+110,2022-05-21,Product E,Central,610,100,2022
+111,2022-06-11,Product A,North,780,150,2022
+112,2022-06-23,Product B,East,690,125,2022
